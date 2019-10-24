@@ -1,0 +1,21 @@
+public class TestClass {
+    long sq = 121;
+
+    public static long findNextSquare(long sq) {
+        if ((long)(Math.sqrt(sq)) < Math.sqrt(sq) || (long)(Math.sqrt(sq)) > Math.sqrt(sq)) {
+            return -1;
+        } else {
+            long sqrtSq = (long) Math.sqrt(sq);
+            long nextStep = (sqrtSq * 2) + 1;
+            long nextSquare = nextStep + sq;
+            return nextSquare;
+        }
+    }
+
+//    public static void main(String[] args) {
+//        TestClass test = new TestClass();
+//        System.out.println(findNextSquare(625));
+//
+//    }
+}
+
