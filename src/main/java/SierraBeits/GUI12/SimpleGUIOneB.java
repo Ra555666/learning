@@ -1,4 +1,4 @@
-package GUI;
+package SierraBeits.GUI12;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
@@ -8,10 +8,10 @@ public class SimpleGUIOneB implements ActionListener {
     JButton button;
     JFrame frame;
 
-    public static void main(String[] args) {
-        SimpleGUIOneB gui = new SimpleGUIOneB();
-        gui.go();
-    }
+//    public static void main(String[] args) {
+//        SimpleGUIOneB gui = new SimpleGUIOneB();
+//        gui.go();
+//    }
 
     public void go(){
         frame = new JFrame();
