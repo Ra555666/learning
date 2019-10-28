@@ -14,8 +14,8 @@ public class HighestAndLowest {
         return resultHighAndLow;
     }
 
-    public static void main(String[] args) {
-        System.out.println( highAndLow("0 -9 4 7 4 -4"));
-
-    }
+//    public static void main(String[] args) {
+//        System.out.println( highAndLow("0 -9 4 7 4 -4"));
+//
+//    }
 }
