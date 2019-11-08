@@ -1,3 +1,5 @@
+package CodeWars;
+
 import static java.lang.Integer.*;
 
 public class Positive {

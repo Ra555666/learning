@@ -1,3 +1,5 @@
+package CodeWars;
+
 public class TestStackTrace {
     TestStackTrace(){
         divideByZero();
@@ -7,6 +9,6 @@ public class TestStackTrace {
     }
 
 //    public static void main(String[] args) {
-//        TestStackTrace test = new TestStackTrace();
+//        CodeWars.TestStackTrace test = new CodeWars.TestStackTrace();
 //    }
 }

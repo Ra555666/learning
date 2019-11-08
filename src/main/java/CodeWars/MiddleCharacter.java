@@ -1,3 +1,5 @@
+package CodeWars;
+
 public class MiddleCharacter {
     public static String getMiddle(String word) {
 //        int length = word.length();

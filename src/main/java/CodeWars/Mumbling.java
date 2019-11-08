@@ -1,3 +1,5 @@
+package CodeWars;
+
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 
@@ -40,7 +42,7 @@ public class Mumbling {
 
 //    public static void main(String[] args) {
 //        String s = "Jopa" ;
-//        Mumbling testMumbling = new Mumbling();
+//        CodeWars.Mumbling testMumbling = new CodeWars.Mumbling();
 //        System.out.println(accum("jopa"));
 //
 //

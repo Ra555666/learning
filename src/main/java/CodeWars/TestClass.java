@@ -1,3 +1,5 @@
+package CodeWars;
+
 public class TestClass {
     long sq = 121;
 
@@ -13,7 +15,7 @@ public class TestClass {
     }
 
 //    public static void main(String[] args) {
-//        TestClass test = new TestClass();
+//        CodeWars.TestClass test = new CodeWars.TestClass();
 //        System.out.println(findNextSquare(625));
 //
 //    }

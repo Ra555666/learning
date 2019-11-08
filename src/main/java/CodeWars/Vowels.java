@@ -1,3 +1,5 @@
+package CodeWars;
+
 public class Vowels {
     public static int getCount(String str) {
 //        return str.replaceAll("(?i)[^aeiou]", "").length();
@@ -11,8 +13,8 @@ public class Vowels {
         return vowelsCount;
     }
 
-    public static void main(String[] args) {
-        System.out.println(getCount("babeli"));
-
-    }
+//    public static void main(String[] args) {
+//        System.out.println(getCount("babeli"));
+//
+//    }
 }

@@ -1,3 +1,5 @@
+package CodeWars;
+
 public class Kata {
     public static String stringy(int size) {
         StringBuilder resultString = new StringBuilder();

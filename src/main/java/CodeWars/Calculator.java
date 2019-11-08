@@ -1,3 +1,5 @@
+package CodeWars;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -59,7 +61,7 @@ public class Calculator {
         windowContent.add("East", arithmeticalOperators);
 
         JFrame mainFrame;
-        mainFrame = new JFrame("Calculator");
+        mainFrame = new JFrame("CodeWars.Calculator");
         mainFrame.setContentPane(windowContent);
 
         mainFrame.pack();
@@ -79,7 +81,7 @@ public class Calculator {
     }
 
 //    public static void main(String[] args) {
-//        Calculator test = new Calculator();
+//        CodeWars.Calculator test = new CodeWars.Calculator();
 //    }
 
 }

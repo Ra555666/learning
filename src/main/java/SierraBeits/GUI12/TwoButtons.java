@@ -38,7 +38,7 @@ public class TwoButtons {
 
     class LabelListener implements ActionListener{
         public void actionPerformed(ActionEvent event){
-            label.setText("Ouch!");
+            label.setText("Fuck you");
         }
     }
 

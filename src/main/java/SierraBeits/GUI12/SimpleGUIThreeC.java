@@ -6,7 +6,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class SimpleGUIThreeC implements ActionListener {
-    JFrame frame;
+    private JFrame frame;
+    private JButton button;
 
 //    public static void main(String[] args) {
 //        SimpleGUIThreeC gui = new SimpleGUIThreeC();
@@ -17,7 +18,7 @@ public class SimpleGUIThreeC implements ActionListener {
         frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        JButton button = new JButton("Change colors");
+        button = new JButton("Change colors");
         button.addActionListener(this);
 
         MyDrawPanel drawPanel = new MyDrawPanel();
@@ -30,5 +31,7 @@ public class SimpleGUIThreeC implements ActionListener {
 
     public void actionPerformed(ActionEvent e) {
         frame.repaint();
+        button.setText("Do it again");
+
     }
 }

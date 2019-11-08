@@ -1,3 +1,5 @@
+package CodeWars;
+
 import java.io.IOException;
 import java.io.PipedReader;
 
@@ -10,7 +12,7 @@ public class TryCatchTraining {
 
 
 //    public static void main(String[] args) {
-//        TryCatchTraining test = new TryCatchTraining();
+//        CodeWars.TryCatchTraining test = new CodeWars.TryCatchTraining();
 //        System.out.println("Score list");
 //
 //        try {
