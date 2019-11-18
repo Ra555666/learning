@@ -9,10 +9,10 @@ public class MiniMusicPlayerThree {
     static JFrame mainFrame = new JFrame("My first musical clip");
     static MyDrawPanel clipPanel;
 
-    public static void main(String[] args) {
-        MiniMusicPlayerThree miniPlayer = new MiniMusicPlayerThree();
-        miniPlayer.go();
-    }
+//    public static void main(String[] args) {
+//        MiniMusicPlayerThree miniPlayer = new MiniMusicPlayerThree();
+//        miniPlayer.go();
+//    }
 
     public void setUpGui(){
         clipPanel = new MyDrawPanel();
