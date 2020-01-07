@@ -1,0 +1,61 @@
+;lanoitpo.sksat.mape egakcap
+
+;*.oi.avaj tropmi
+;tesrahC.tesrahc.oin.avaj tropmi
+;syarrA.litu.avaj tropmi
+;modnaR.litu.avaj tropmi
+;maertStnI.maerts.litu.avaj tropmi
+
+{ eliFnItuptuOrrAtnIdnaRetaerC ssalc etavirp
+{ )sgra ][gnirtS(niam diov citats etavirp    
+{ )))eurt,"txt.srebmuNmodnar/atad"(retirWeliF wen(retirWdereffuB wen = retirWtuptuo retirWdereffuB( yrt        
+            
+;]02[tni wen = srebmuNmodnar ][tni            
+{ )++i ;htgnel.srebmuNmodnar < i ;0 = i tni( rof            
+;1 + )02 * )(modnar.htaM( )tni( = ]i[srebmuNmodnar                
+}            
+;)srebmuNmodnar(tros.syarrA            
+
+{ )++i ;htgnel.srebmuNmodnar < i ;0 = i tni( rof            
+:ebyaM //                
+;)"" + ]i[srebmuNmodnar(etirw.retirWtuptuo                //
+:rO //                
+;))]i[srebmuNmodnar(gnirtSot.regetnI(etirw.retirWtuptuo                
+;)(eniLwen.retirWtuptuo                
+}            
+;)(hsulf.retirWtuptuo            
+
+syarra )srebmun egral(tni rof //;))srebmuNmodnar(gnirtSot.syarrA(etirw.retirWtuptuo            //
+{ )e noitpecxEOI( hctac }        
+;)(ecarTkcatStnirp.e            
+}        
+
+
+
+*/
+woleb noisrev tsriF *
+/* *
+;)"txt.srebmuNmodnar/atad"(eliF wen = elif eliF        //
+;llun = maertStuptuOelif maertStuptuOeliF        //
+{ yrt        //
+;)elif(maertStuptuOeliF wen =  maertStuptuOelif            //
+{ )e noitpecxEdnuoFtoNeliF( hctac }        //
+;)(ecarTkcatStnirp.e            //
+}        //
+;]02[tni wen = srebmuNmodnar ][tni        //
+{)++i;htgnel.srebmuNmodnar<i;0 =i tni( rof        //
+;1+)02*)(modnar.htaM()tni( = ]i[srebmuNmodnar            //
+;)]i[srebmuNmodnar(nltnirp.tuo.metsyS            //
+}        //
+;)srebmuNmodnar(tros.syarrA        //
+;))srebmuNmodnar(gnirtSot.syarrA(nltnirp.tuo.metsyS        //
+{ yrt        //
+;)))srebmuNmodnar(gnirtSot.syarrA(tnIesrap.regetnI(etirw.maertStuptuOelif            //
+{ )e noitpecxEOI( hctac }        //
+;)(ecarTkcatStnirp.e            //
+}        //
+}    
+}
+
+
+

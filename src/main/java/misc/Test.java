@@ -16,6 +16,15 @@ public class Test {
         Arrays.sort(s);
         String test = s[0].toUpperCase();
         return String.join("***",test.split(""));
+
+    }
+
+    public static void main(String[] args) {
+        int a[] = {8,3,1};
+        for (int i = 1; i<3;i++){
+            a[0]%=a[i];
+        }
+        System.out.println(a[0]);
     }
 
 //    public static void main(String[] args) {
